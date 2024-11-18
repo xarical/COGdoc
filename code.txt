@@ -1,0 +1,4 @@
+print("This is code lmao")
+while True:
+    pass # this is more code lmao
+# this is a comment lmao
